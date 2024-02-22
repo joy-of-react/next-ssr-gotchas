@@ -1,4 +1,4 @@
-# Next 13 Server Side Rendering Gotchas
+# Next Server Side Rendering Gotchas
 
 This repo is meant to be used as part of a lesson in [The Joy of React](https://www.joyofreact.com/).
 
